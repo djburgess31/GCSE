@@ -1,0 +1,7 @@
+Question1,Answer1,Answer2,a,Question2,Answer1,Answer2,b,Question3,Answer1,Answer2,a,Question4,Answer1,Answer2,b,Question5,Answer1,Answer2,a,
+Question1,Answer1,Answer2,Answer3,b,Question2,Answer1,Answer2,Answer3,c,Question3,Answer1,Answer2,Answer3,a,Question4,Answer1,Answer2,Answer3,b,Question5,Answer1,Answer2,Answer3,c,
+Question1,Answer1,Answer2,Answer3,Answer4,a,Question2,Answer1,Answer2,Answer3,Answer4,b,Question3,Answer1,Answer2,Answer3,Answer4,c,Question4,Answer1,Answer2,Answer3,Answer4,d,Question5,Answer1,Answer2,Answer3,Answer4,a,
+25,5,0,0,5,1,
+5,dan15,
+0,-,
+5,dan15,
